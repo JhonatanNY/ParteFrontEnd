@@ -9,10 +9,10 @@ Por parte del frontend, se utilizó React, implementando componentes para mostra
 ## Herramientas
 - Spring Boot
 - React
-- SQL Server
+- MySql
 - Postman
 
 ## Despliegues
-- **Frontend (React)**: [Ver aplicación en Netlify](https://tu-app-en-netlify.netlify.app)
-- **Backend (Spring Boot)**: [Ver API en Render](https://tu-app-en-render.onrender.com)
+- **Frontend (React)**: [Ver aplicación en Netlify](https://bus-site-example.netlify.app)
+- **Backend (Spring Boot)**: [Ver API](https://servidor-bus-api.onrender.com/bus)
 
